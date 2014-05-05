@@ -1,11 +1,11 @@
-spring-mvc-java-web-app-template
+spring-mvc-java8-web-app-template
 =================================
 
 Template project for web-application development using Spring MVC and Java
 
-Starter template project for thos who want to start experimenting with Java & Spring MVC & JSP.
+Starter template project for thos who want to start experimenting with Java 8 & Spring MVC & Hibernate & SSP(Scala Server pages).
 
-You need to have Java 7+ installed on your PC in order to compile example.
+You need to have Java 8+ installed on your PC in order to compile example.
 
 Project uses Apache Maven as build and dependency management tool.
 
