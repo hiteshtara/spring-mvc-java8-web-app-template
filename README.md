@@ -17,4 +17,6 @@ It has 4 modules:
 
 In order to create war execute following command: mvn -P=build clean package
 
-P.S. I prefer to use IntelliJ IDEA IDE.
+P.S. I prefer to use IntelliJ IDEA IDE - simply import parent project as maven project(select parent pom.xml).
+For Eclipse/netbeans users: In project web-app-launcher, class name.dargiri.Launcher, change value of static variable:
+"MULTI_MODULE_DEFAULT_PATH" to full path to "web" module.
